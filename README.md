@@ -1,1 +1,1 @@
-# Bilgisayar Bilimi Dersleri İçin Oluşturduğum Depo
+# Bilgisayar Bilimi Kur-1 (Python ile Programlama)
