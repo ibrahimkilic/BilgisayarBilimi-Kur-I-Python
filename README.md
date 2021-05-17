@@ -1,1 +1,1 @@
-# learnpython
+# Bilgisayar Bilimi Dersleri İçin Oluşturduğum Depo
